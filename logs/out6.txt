@@ -1,0 +1,47 @@
+pend {'seed': 0, 'true': 3, 'true_first': 3, 'direct': 3, 'local': 5, 'ptq_inv3': True, 'ptq_dir3': True, 'qat_inv3': True, 'qat_dir3': True, 'ptq_inv4': True, 'ptq_dir4': True, 'qat_inv4': True, 'qat_dir4': True} 12s
+pend {'seed': 1, 'true': 4, 'true_first': 4, 'direct': 4, 'local': 5, 'ptq_inv3': False, 'ptq_dir3': False, 'qat_inv3': True, 'qat_dir3': True, 'ptq_inv4': True, 'ptq_dir4': True, 'qat_inv4': True, 'qat_dir4': True} 22s
+pend {'seed': 2, 'true': 4, 'true_first': 4, 'direct': 4, 'local': 5, 'ptq_inv3': False, 'ptq_dir3': False, 'qat_inv3': True, 'qat_dir3': True, 'ptq_inv4': True, 'ptq_dir4': True, 'qat_inv4': True, 'qat_dir4': True} 32s
+pend {'seed': 3, 'true': 5, 'true_first': 5, 'direct': 5, 'local': 6, 'ptq_inv3': False, 'ptq_dir3': False, 'qat_inv3': True, 'qat_dir3': True, 'ptq_inv4': False, 'ptq_dir4': False, 'qat_inv4': True, 'qat_dir4': True} 43s
+pend {'seed': 4, 'true': 4, 'true_first': 4, 'direct': 4, 'local': 6, 'ptq_inv3': False, 'ptq_dir3': False, 'qat_inv3': True, 'qat_dir3': True, 'ptq_inv4': True, 'ptq_dir4': True, 'qat_inv4': True, 'qat_dir4': True} 53s
+pend {'seed': 5, 'true': 4, 'true_first': 4, 'direct': 4, 'local': 5, 'ptq_inv3': False, 'ptq_dir3': False, 'qat_inv3': True, 'qat_dir3': True, 'ptq_inv4': True, 'ptq_dir4': True, 'qat_inv4': True, 'qat_dir4': True} 63s
+pend {'seed': 6, 'true': 4, 'true_first': 4, 'direct': 4, 'local': 5, 'ptq_inv3': False, 'ptq_dir3': False, 'qat_inv3': True, 'qat_dir3': True, 'ptq_inv4': True, 'ptq_dir4': True, 'qat_inv4': True, 'qat_dir4': True} 73s
+pend {'seed': 7, 'true': 3, 'true_first': 3, 'direct': 3, 'local': 5, 'ptq_inv3': True, 'ptq_dir3': True, 'qat_inv3': True, 'qat_dir3': True, 'ptq_inv4': True, 'ptq_dir4': True, 'qat_inv4': True, 'qat_dir4': True} 82s
+pend {'seed': 8, 'true': 5, 'true_first': 5, 'direct': 5, 'local': 6, 'ptq_inv3': False, 'ptq_dir3': False, 'qat_inv3': True, 'qat_dir3': True, 'ptq_inv4': False, 'ptq_dir4': False, 'qat_inv4': True, 'qat_dir4': True} 92s
+pend {'seed': 9, 'true': 4, 'true_first': 4, 'direct': 4, 'local': 5, 'ptq_inv3': False, 'ptq_dir3': False, 'qat_inv3': True, 'qat_dir3': True, 'ptq_inv4': True, 'ptq_dir4': True, 'qat_inv4': True, 'qat_dir4': True} 103s
+pend {'seed': 10, 'true': 4, 'true_first': 4, 'direct': 4, 'local': 5, 'ptq_inv3': False, 'ptq_dir3': False, 'qat_inv3': True, 'qat_dir3': True, 'ptq_inv4': True, 'ptq_dir4': True, 'qat_inv4': True, 'qat_dir4': True} 113s
+pend {'seed': 11, 'true': 3, 'true_first': 3, 'direct': 3, 'local': 5, 'ptq_inv3': True, 'ptq_dir3': True, 'qat_inv3': True, 'qat_dir3': True, 'ptq_inv4': True, 'ptq_dir4': True, 'qat_inv4': True, 'qat_dir4': True} 123s
+pend {'seed': 12, 'true': 4, 'true_first': 4, 'direct': 4, 'local': 5, 'ptq_inv3': False, 'ptq_dir3': False, 'qat_inv3': True, 'qat_dir3': True, 'ptq_inv4': True, 'ptq_dir4': True, 'qat_inv4': True, 'qat_dir4': True} 133s
+pend {'seed': 13, 'true': 3, 'true_first': 3, 'direct': 3, 'local': 6, 'ptq_inv3': True, 'ptq_dir3': True, 'qat_inv3': True, 'qat_dir3': True, 'ptq_inv4': True, 'ptq_dir4': True, 'qat_inv4': True, 'qat_dir4': True} 143s
+pend {'seed': 14, 'true': 5, 'true_first': 3, 'direct': 3, 'local': 6, 'ptq_inv3': True, 'ptq_dir3': True, 'qat_inv3': True, 'qat_dir3': True, 'ptq_inv4': False, 'ptq_dir4': False, 'qat_inv4': True, 'qat_dir4': True} 152s
+pendulum soundness violations 0
+width {'h': 16, 'seed': 0, 'true': 3, 'direct': 3}
+width {'h': 16, 'seed': 1, 'true': 3, 'direct': 3}
+width {'h': 16, 'seed': 2, 'true': 3, 'direct': 3}
+width {'h': 16, 'seed': 3, 'true': 5, 'direct': 3}
+width {'h': 16, 'seed': 4, 'true': 4, 'direct': 4}
+width {'h': 16, 'seed': 5, 'true': 3, 'direct': 3}
+width {'h': 16, 'seed': 6, 'true': 4, 'direct': 4}
+width {'h': 16, 'seed': 7, 'true': 3, 'direct': 3}
+width {'h': 64, 'seed': 0, 'true': 5, 'direct': None}
+width {'h': 64, 'seed': 1, 'true': 4, 'direct': 4}
+width {'h': 64, 'seed': 2, 'true': 4, 'direct': None}
+width {'h': 64, 'seed': 3, 'true': 4, 'direct': None}
+width {'h': 64, 'seed': 4, 'true': 3, 'direct': 3}
+width {'h': 64, 'seed': 5, 'true': 3, 'direct': 3}
+width {'h': 64, 'seed': 6, 'true': 4, 'direct': None}
+width {'h': 64, 'seed': 7, 'true': 4, 'direct': 4}
+4d {'seed': 0, 'true': 4, 'ptq_inv3': False, 'qat_inv3': True, 'ptq_inv4': True, 'qat_inv4': True, 'ptq_inv5': True, 'qat_inv5': True}
+4d {'seed': 1, 'true': 4, 'ptq_inv3': False, 'qat_inv3': True, 'ptq_inv4': True, 'qat_inv4': True, 'ptq_inv5': True, 'qat_inv5': True}
+4d {'seed': 2, 'true': 4, 'ptq_inv3': False, 'qat_inv3': True, 'ptq_inv4': True, 'qat_inv4': True, 'ptq_inv5': True, 'qat_inv5': True}
+4d {'seed': 3, 'true': 4, 'ptq_inv3': False, 'qat_inv3': True, 'ptq_inv4': True, 'qat_inv4': True, 'ptq_inv5': True, 'qat_inv5': True}
+4d {'seed': 4, 'true': 4, 'ptq_inv3': False, 'qat_inv3': True, 'ptq_inv4': True, 'qat_inv4': True, 'ptq_inv5': True, 'qat_inv5': True}
+4d {'seed': 5, 'true': 4, 'ptq_inv3': False, 'qat_inv3': True, 'ptq_inv4': True, 'qat_inv4': True, 'ptq_inv5': True, 'qat_inv5': True}
+4d {'seed': 6, 'true': 6, 'ptq_inv3': False, 'qat_inv3': True, 'ptq_inv4': True, 'qat_inv4': True, 'ptq_inv5': False, 'qat_inv5': True}
+4d {'seed': 7, 'true': 4, 'ptq_inv3': False, 'qat_inv3': True, 'ptq_inv4': True, 'qat_inv4': True, 'ptq_inv5': True, 'qat_inv5': True}
+4d {'seed': 8, 'true': 6, 'ptq_inv3': False, 'qat_inv3': True, 'ptq_inv4': True, 'qat_inv4': True, 'ptq_inv5': False, 'qat_inv5': True}
+4d {'seed': 9, 'true': 4, 'ptq_inv3': False, 'qat_inv3': True, 'ptq_inv4': True, 'qat_inv4': True, 'ptq_inv5': True, 'qat_inv5': True}
+4d {'seed': 10, 'true': 4, 'ptq_inv3': False, 'qat_inv3': False, 'ptq_inv4': True, 'qat_inv4': True, 'ptq_inv5': True, 'qat_inv5': True}
+4d {'seed': 11, 'true': 6, 'ptq_inv3': False, 'qat_inv3': True, 'ptq_inv4': True, 'qat_inv4': True, 'ptq_inv5': False, 'qat_inv5': True}
+4d {'seed': 12, 'true': 5, 'ptq_inv3': False, 'qat_inv3': True, 'ptq_inv4': False, 'qat_inv4': True, 'ptq_inv5': True, 'qat_inv5': True}
+4d {'seed': 13, 'true': 6, 'ptq_inv3': False, 'qat_inv3': True, 'ptq_inv4': False, 'qat_inv4': True, 'ptq_inv5': False, 'qat_inv5': True}
+4d {'seed': 14, 'true': 4, 'ptq_inv3': False, 'qat_inv3': True, 'ptq_inv4': True, 'qat_inv4': True, 'ptq_inv5': True, 'qat_inv5': True}

@@ -1,0 +1,36 @@
+
+=== 4D bicycle: gamma=0.189 c=30.1 beta=6.43 us=0.5 rho0=0.930 cells=81
+seed  0 rho=0.961 margin=0.0331 | bits: formula=15.5 norm-rec=None DIBP=None DIBP+split=11 measured-eps=6 | TRUE=4
+seed  1 rho=0.974 margin=0.022 | bits: formula=15.8 norm-rec=None DIBP=None DIBP+split=12 measured-eps=7 | TRUE=4
+seed  2 rho=0.963 margin=0.0314 | bits: formula=15.5 norm-rec=None DIBP=None DIBP+split=11 measured-eps=5 | TRUE=4
+seed  3 rho=0.962 margin=0.0322 | bits: formula=15.3 norm-rec=None DIBP=None DIBP+split=11 measured-eps=6 | TRUE=4
+seed  4 rho=0.962 margin=0.0325 | bits: formula=15.9 norm-rec=None DIBP=None DIBP+split=11 measured-eps=6 | TRUE=4
+seed  5 rho=0.961 margin=0.0331 | bits: formula=16.6 norm-rec=None DIBP=None DIBP+split=11 measured-eps=7 | TRUE=4
+seed  6 rho=0.968 margin=0.0271 | bits: formula=16.3 norm-rec=None DIBP=None DIBP+split=11 measured-eps=7 | TRUE=6
+seed  7 rho=0.963 margin=0.0315 | bits: formula=15.7 norm-rec=None DIBP=None DIBP+split=11 measured-eps=7 | TRUE=4
+seed  8 rho=0.962 margin=0.0327 | bits: formula=15.6 norm-rec=None DIBP=None DIBP+split=11 measured-eps=6 | TRUE=6
+seed  9 rho=0.961 margin=0.0331 | bits: formula=15.7 norm-rec=None DIBP=None DIBP+split=11 measured-eps=6 | TRUE=4
+seed 10 rho=0.962 margin=0.0322 | bits: formula=15.3 norm-rec=None DIBP=None DIBP+split=11 measured-eps=6 | TRUE=4
+seed 11 rho=0.961 margin=0.0331 | bits: formula=16.0 norm-rec=None DIBP=None DIBP+split=11 measured-eps=7 | TRUE=6
+seed 12 rho=0.961 margin=0.0331 | bits: formula=15.5 norm-rec=None DIBP=None DIBP+split=11 measured-eps=6 | TRUE=5
+seed 13 rho=0.966 margin=0.0286 | bits: formula=15.9 norm-rec=None DIBP=None DIBP+split=11 measured-eps=6 | TRUE=6
+seed 14 rho=0.961 margin=0.0331 | bits: formula=15.6 norm-rec=None DIBP=None DIBP+split=11 measured-eps=7 | TRUE=4
+soundness violations (a bound said safe but sampling found a leak): 0
+
+=== pendulum: gamma=1 c=47.9 beta=0.113 us=20 rho0=0.930 cells=52
+seed  0 rho=0.925 margin=4.57 | bits: formula=14.2 norm-rec=12 DIBP=10 DIBP+split=7 measured-eps=5 | TRUE=3
+seed  1 rho=0.925 margin=4.56 | bits: formula=14.7 norm-rec=12 DIBP=10 DIBP+split=6 measured-eps=6 | TRUE=4
+seed  2 rho=0.926 margin=4.52 | bits: formula=14.8 norm-rec=12 DIBP=10 DIBP+split=6 measured-eps=5 | TRUE=4
+seed  3 rho=0.926 margin=4.53 | bits: formula=15.2 norm-rec=None DIBP=10 DIBP+split=6 measured-eps=6 | TRUE=5
+seed  4 rho=0.926 margin=4.52 | bits: formula=14.2 norm-rec=12 DIBP=10 DIBP+split=6 measured-eps=5 | TRUE=4
+seed  5 rho=0.926 margin=4.52 | bits: formula=14.5 norm-rec=12 DIBP=10 DIBP+split=5 measured-eps=5 | TRUE=4
+seed  6 rho=0.926 margin=4.51 | bits: formula=14.9 norm-rec=None DIBP=10 DIBP+split=5 measured-eps=5 | TRUE=4
+seed  7 rho=0.926 margin=4.53 | bits: formula=14.5 norm-rec=12 DIBP=10 DIBP+split=6 measured-eps=4 | TRUE=3
+seed  8 rho=0.926 margin=4.5 | bits: formula=15.4 norm-rec=None DIBP=10 DIBP+split=6 measured-eps=5 | TRUE=5
+seed  9 rho=0.926 margin=4.51 | bits: formula=13.9 norm-rec=12 DIBP=10 DIBP+split=6 measured-eps=5 | TRUE=4
+seed 10 rho=0.926 margin=4.52 | bits: formula=15.0 norm-rec=None DIBP=10 DIBP+split=6 measured-eps=6 | TRUE=4
+seed 11 rho=0.926 margin=4.53 | bits: formula=14.6 norm-rec=12 DIBP=9 DIBP+split=5 measured-eps=5 | TRUE=3
+seed 12 rho=0.926 margin=4.5 | bits: formula=15.0 norm-rec=None DIBP=10 DIBP+split=6 measured-eps=5 | TRUE=4
+seed 13 rho=0.926 margin=4.54 | bits: formula=15.4 norm-rec=None DIBP=10 DIBP+split=6 measured-eps=5 | TRUE=3
+seed 14 rho=0.926 margin=4.51 | bits: formula=14.4 norm-rec=12 DIBP=10 DIBP+split=6 measured-eps=6 | TRUE=5
+soundness violations (a bound said safe but sampling found a leak): 0

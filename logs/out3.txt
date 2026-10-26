@@ -1,0 +1,40 @@
+
+=== 4D bicycle
+seed  0  local certificate (Thm 1'+splitting) bits=None | TRUE=4
+seed  1  local certificate (Thm 1'+splitting) bits=None | TRUE=4
+seed  2  local certificate (Thm 1'+splitting) bits=None | TRUE=4
+seed  3  local certificate (Thm 1'+splitting) bits=None | TRUE=4
+seed  4  local certificate (Thm 1'+splitting) bits=None | TRUE=4
+seed  5  local certificate (Thm 1'+splitting) bits=None | TRUE=4
+seed  6  local certificate (Thm 1'+splitting) bits=None | TRUE=6
+seed  7  local certificate (Thm 1'+splitting) bits=None | TRUE=4
+seed  8  local certificate (Thm 1'+splitting) bits=None | TRUE=6
+seed  9  local certificate (Thm 1'+splitting) bits=None | TRUE=4
+seed 10  local certificate (Thm 1'+splitting) bits=None | TRUE=4
+seed 11  local certificate (Thm 1'+splitting) bits=None | TRUE=6
+seed 12  local certificate (Thm 1'+splitting) bits=None | TRUE=5
+seed 13  local certificate (Thm 1'+splitting) bits=None | TRUE=6
+seed 14  local certificate (Thm 1'+splitting) bits=None | TRUE=4
+soundness violations: 0
+/home/claude/bits/bits3.py:48: RuntimeWarning: Mean of empty slice
+  print("mean certified %.1f  mean true %.1f  gap %.1f"%(np.nanmean(f),t.mean(),np.nanmean(f-t)))
+mean certified nan  mean true 4.6  gap nan
+
+=== pendulum
+seed  0  local certificate (Thm 1'+splitting) bits=5 | TRUE=3
+seed  1  local certificate (Thm 1'+splitting) bits=5 | TRUE=4
+seed  2  local certificate (Thm 1'+splitting) bits=5 | TRUE=4
+seed  3  local certificate (Thm 1'+splitting) bits=6 | TRUE=5
+seed  4  local certificate (Thm 1'+splitting) bits=6 | TRUE=4
+seed  5  local certificate (Thm 1'+splitting) bits=5 | TRUE=4
+seed  6  local certificate (Thm 1'+splitting) bits=5 | TRUE=4
+seed  7  local certificate (Thm 1'+splitting) bits=5 | TRUE=3
+seed  8  local certificate (Thm 1'+splitting) bits=6 | TRUE=5
+seed  9  local certificate (Thm 1'+splitting) bits=5 | TRUE=4
+seed 10  local certificate (Thm 1'+splitting) bits=5 | TRUE=4
+seed 11  local certificate (Thm 1'+splitting) bits=5 | TRUE=3
+seed 12  local certificate (Thm 1'+splitting) bits=5 | TRUE=4
+seed 13  local certificate (Thm 1'+splitting) bits=6 | TRUE=3
+seed 14  local certificate (Thm 1'+splitting) bits=6 | TRUE=5
+soundness violations: 0
+mean certified 5.3  mean true 3.9  gap 1.4
