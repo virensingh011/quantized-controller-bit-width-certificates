@@ -1,0 +1,16 @@
+pend5 {'seed': 0, 'ptq_inv5': True, 'ptq_dir5': True, 'ft_inv5': True, 'ft_dir5': True, 'qat_inv5': True, 'qat_dir5': True}
+pend5 {'seed': 1, 'ptq_inv5': True, 'ptq_dir5': True, 'ft_inv5': True, 'ft_dir5': True, 'qat_inv5': True, 'qat_dir5': True}
+pend5 {'seed': 2, 'ptq_inv5': True, 'ptq_dir5': True, 'ft_inv5': True, 'ft_dir5': True, 'qat_inv5': True, 'qat_dir5': True}
+pend5 {'seed': 3, 'ptq_inv5': True, 'ptq_dir5': True, 'ft_inv5': True, 'ft_dir5': True, 'qat_inv5': True, 'qat_dir5': True}
+pend5 {'seed': 4, 'ptq_inv5': True, 'ptq_dir5': True, 'ft_inv5': True, 'ft_dir5': True, 'qat_inv5': True, 'qat_dir5': True}
+pend5 {'seed': 5, 'ptq_inv5': True, 'ptq_dir5': True, 'ft_inv5': True, 'ft_dir5': True, 'qat_inv5': True, 'qat_dir5': True}
+pend5 {'seed': 6, 'ptq_inv5': True, 'ptq_dir5': True, 'ft_inv5': True, 'ft_dir5': True, 'qat_inv5': True, 'qat_dir5': True}
+pend5 {'seed': 7, 'ptq_inv5': True, 'ptq_dir5': True, 'ft_inv5': True, 'ft_dir5': True, 'qat_inv5': True, 'qat_dir5': True}
+pend5 {'seed': 8, 'ptq_inv5': True, 'ptq_dir5': True, 'ft_inv5': True, 'ft_dir5': True, 'qat_inv5': True, 'qat_dir5': True}
+pend5 {'seed': 9, 'ptq_inv5': True, 'ptq_dir5': True, 'ft_inv5': True, 'ft_dir5': True, 'qat_inv5': True, 'qat_dir5': True}
+pend5 {'seed': 10, 'ptq_inv5': True, 'ptq_dir5': True, 'ft_inv5': True, 'ft_dir5': True, 'qat_inv5': True, 'qat_dir5': True}
+pend5 {'seed': 11, 'ptq_inv5': True, 'ptq_dir5': True, 'ft_inv5': True, 'ft_dir5': True, 'qat_inv5': True, 'qat_dir5': True}
+pend5 {'seed': 12, 'ptq_inv5': True, 'ptq_dir5': True, 'ft_inv5': True, 'ft_dir5': True, 'qat_inv5': True, 'qat_dir5': True}
+pend5 {'seed': 13, 'ptq_inv5': True, 'ptq_dir5': True, 'ft_inv5': True, 'ft_dir5': True, 'qat_inv5': True, 'qat_dir5': True}
+pend5 {'seed': 14, 'ptq_inv5': True, 'ptq_dir5': True, 'ft_inv5': True, 'ft_dir5': True, 'qat_inv5': True, 'qat_dir5': True}
+done
