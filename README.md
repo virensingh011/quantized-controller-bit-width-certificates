@@ -43,7 +43,7 @@ Runtimes on a laptop CPU are minutes to tens of minutes per script.
 * Results can differ slightly with other NumPy versions because of floating-point order.
 
 ## Citation
-Archived at Zenodo, DOI: 10.5281/zenodo.23661797. Add the paper reference here after publication.
+Archived at Zenodo, DOI: 10.5281/zenodo.23661797. 
 
 ## License
 MIT (see `LICENSE`).
