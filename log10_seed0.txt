@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/home/claude/code/quantized-controller-bit-width-certificates-main/bits10.py", line 54, in <module>
+    run(int(sys.argv[1]), int(sys.argv[2]) if len(sys.argv)>2 else 40000)
+  File "/home/claude/code/quantized-controller-bit-width-certificates-main/bits10.py", line 25, in run
+    print(f"seed {seed}: sampling true={true} first={first} | FP certified={okF} boxes={nF} ({out['fp_time']:.0f}s)",flush=True)
+                                                                                        ^^
+UnboundLocalError: cannot access local variable 'nF' where it is not associated with a value
+seed 0: sampling true=4 first=4 | FP certified=True boxes=15679 (5s)
+   direct proof first certifying width: 4
+   local certificate first certifying width: 9   (sampling true=4)

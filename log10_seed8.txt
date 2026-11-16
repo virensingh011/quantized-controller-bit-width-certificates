@@ -1,0 +1,3 @@
+seed 8: sampling true=6 first=4 | FP certified=True boxes=18229 (5s)
+   direct proof first certifying width: 4
+   local certificate first certifying width: 10   (sampling true=6)

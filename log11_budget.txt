@@ -1,0 +1,2 @@
+seed 0 b=8 budget=150000: local certificate proved=True boxes=71276 (26s)
+seed 0 b=7 budget=150000: local certificate proved=False boxes=115390 (35s)

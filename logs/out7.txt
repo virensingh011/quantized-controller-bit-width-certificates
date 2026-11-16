@@ -1,0 +1,31 @@
+pend {'seed': 0, 'ft_inv3': False, 'ft_dir3': False, 'ft_inv4': True, 'ft_dir4': True}
+pend {'seed': 1, 'ft_inv3': False, 'ft_dir3': False, 'ft_inv4': True, 'ft_dir4': True}
+pend {'seed': 2, 'ft_inv3': False, 'ft_dir3': False, 'ft_inv4': True, 'ft_dir4': True}
+pend {'seed': 3, 'ft_inv3': False, 'ft_dir3': False, 'ft_inv4': False, 'ft_dir4': False}
+pend {'seed': 4, 'ft_inv3': False, 'ft_dir3': False, 'ft_inv4': True, 'ft_dir4': True}
+pend {'seed': 5, 'ft_inv3': False, 'ft_dir3': False, 'ft_inv4': True, 'ft_dir4': True}
+pend {'seed': 6, 'ft_inv3': False, 'ft_dir3': False, 'ft_inv4': True, 'ft_dir4': True}
+pend {'seed': 7, 'ft_inv3': True, 'ft_dir3': True, 'ft_inv4': True, 'ft_dir4': True}
+pend {'seed': 8, 'ft_inv3': False, 'ft_dir3': False, 'ft_inv4': False, 'ft_dir4': False}
+pend {'seed': 9, 'ft_inv3': True, 'ft_dir3': True, 'ft_inv4': True, 'ft_dir4': True}
+pend {'seed': 10, 'ft_inv3': True, 'ft_dir3': True, 'ft_inv4': False, 'ft_dir4': False}
+pend {'seed': 11, 'ft_inv3': True, 'ft_dir3': True, 'ft_inv4': True, 'ft_dir4': True}
+pend {'seed': 12, 'ft_inv3': False, 'ft_dir3': False, 'ft_inv4': True, 'ft_dir4': True}
+pend {'seed': 13, 'ft_inv3': False, 'ft_dir3': False, 'ft_inv4': True, 'ft_dir4': True}
+pend {'seed': 14, 'ft_inv3': True, 'ft_dir3': True, 'ft_inv4': False, 'ft_dir4': False}
+4d {'seed': 0, 'ft_inv3': False, 'ft_inv4': False, 'ft_inv5': True}
+4d {'seed': 1, 'ft_inv3': False, 'ft_inv4': True, 'ft_inv5': True}
+4d {'seed': 2, 'ft_inv3': False, 'ft_inv4': True, 'ft_inv5': True}
+4d {'seed': 3, 'ft_inv3': False, 'ft_inv4': True, 'ft_inv5': True}
+4d {'seed': 4, 'ft_inv3': False, 'ft_inv4': True, 'ft_inv5': True}
+4d {'seed': 5, 'ft_inv3': False, 'ft_inv4': True, 'ft_inv5': True}
+4d {'seed': 6, 'ft_inv3': True, 'ft_inv4': False, 'ft_inv5': True}
+4d {'seed': 7, 'ft_inv3': False, 'ft_inv4': True, 'ft_inv5': True}
+4d {'seed': 8, 'ft_inv3': False, 'ft_inv4': True, 'ft_inv5': True}
+4d {'seed': 9, 'ft_inv3': False, 'ft_inv4': True, 'ft_inv5': True}
+4d {'seed': 10, 'ft_inv3': False, 'ft_inv4': False, 'ft_inv5': True}
+4d {'seed': 11, 'ft_inv3': False, 'ft_inv4': False, 'ft_inv5': False}
+4d {'seed': 12, 'ft_inv3': True, 'ft_inv4': False, 'ft_inv5': True}
+4d {'seed': 13, 'ft_inv3': False, 'ft_inv4': True, 'ft_inv5': True}
+4d {'seed': 14, 'ft_inv3': False, 'ft_inv4': True, 'ft_inv5': True}
+done
