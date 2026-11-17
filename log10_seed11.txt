@@ -1,4 +1,3 @@
-seed 11: sampling true=6 first=4 | FP certified=True boxes=18025 (6s)
-seed 11: sampling true=6 first=4 | FP certified=True boxes=18025 (6s)
+seed 11: sampling true=6 first=4 | FP certified=True boxes=18026 (6s)
    direct proof first certifying width: 6
    local certificate first certifying width: 10   (sampling true=6)

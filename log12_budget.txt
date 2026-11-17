@@ -1,0 +1,8 @@
+seed 0 b=6: proved=False boxes=131457 (42s)
+seed 0 b=7: proved=False boxes=115390 (38s)
+seed 0 b=8: proved=True boxes=71277 (27s)
+seed 1 b=6: proved=False boxes=106967 (35s)
+seed 1 b=7: proved=False boxes=140740 (43s)
+seed 1 b=8: proved=True boxes=103020 (36s)
+seed 6 b=6: proved=False boxes=112309 (34s)
+seed 6 b=7: proved=False boxes=118960 (36s)

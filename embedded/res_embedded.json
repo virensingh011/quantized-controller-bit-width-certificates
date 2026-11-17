@@ -1,0 +1,100 @@
+{
+ "pendulum": {
+  "first": 3.8,
+  "true": 3.933333333333333,
+  "counts": {
+   "3": 5,
+   "4": 12,
+   "5": 15,
+   "6": 15,
+   "8": 15
+  },
+  "sizes": {
+   "3": {
+    "weights": 808,
+    "bias": 388,
+    "requant": 480,
+    "total": 1676
+   },
+   "4": {
+    "weights": 1076,
+    "bias": 388,
+    "requant": 480,
+    "total": 1944
+   },
+   "5": {
+    "weights": 1344,
+    "bias": 388,
+    "requant": 480,
+    "total": 2212
+   },
+   "6": {
+    "weights": 1612,
+    "bias": 388,
+    "requant": 480,
+    "total": 2480
+   },
+   "8": {
+    "weights": 2148,
+    "bias": 388,
+    "requant": 480,
+    "total": 3016
+   },
+   "10": {
+    "weights": 2684,
+    "bias": 388,
+    "requant": 480,
+    "total": 3552
+   }
+  }
+ },
+ "bicycle": {
+  "first": 4.266666666666667,
+  "true": 4.533333333333333,
+  "counts": {
+   "3": 0,
+   "4": 12,
+   "5": 12,
+   "6": 15,
+   "8": 15
+  },
+  "sizes": {
+   "3": {
+    "weights": 832,
+    "bias": 388,
+    "requant": 480,
+    "total": 1700
+   },
+   "4": {
+    "weights": 1108,
+    "bias": 388,
+    "requant": 480,
+    "total": 1976
+   },
+   "5": {
+    "weights": 1384,
+    "bias": 388,
+    "requant": 480,
+    "total": 2252
+   },
+   "6": {
+    "weights": 1660,
+    "bias": 388,
+    "requant": 480,
+    "total": 2528
+   },
+   "8": {
+    "weights": 2212,
+    "bias": 388,
+    "requant": 480,
+    "total": 3080
+   },
+   "10": {
+    "weights": 2764,
+    "bias": 388,
+    "requant": 480,
+    "total": 3632
+   }
+  }
+ }
+}

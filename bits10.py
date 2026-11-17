@@ -2,10 +2,11 @@
 usage: python bits10.py <seed> [budget]      writes res10_seed<k>.json
 (Re-implemented after the original file was lost; uses the verifier of bits9.py.)"""
 import numpy as np, sys, json, time, os
+MARGIN=float(os.environ.get('MARGIN','1e-6'))   # relative safety margin on every bound (absorbs float64 rounding)
 import bits2 as B, bits9 as V
 from test9 import setup4d
 def run(seed, budget=40000, bmax=12):
-    pl=setup4d(); c=pl["c"]; sc=np.sqrt(c); us,um=pl["us"],pl["umax"]; M,lbv,beta=V.plant_w(pl)
+    pl=setup4d(); c=pl["c"]; sc=np.sqrt(c)*(1-MARGIN); us,um=pl["us"],pl["umax"]; M,lbv,beta=V.plant_w(pl)
     rng0=np.random.default_rng(123); _=B.samples(pl,20000,rng0,1.5)
     X=np.vstack([B.samples(pl,30000,rng0),B.boundary(pl,5000,rng0)])
     # NOTE: identical sample set to bits2.run (same rng0 call order) -> same sampling test
